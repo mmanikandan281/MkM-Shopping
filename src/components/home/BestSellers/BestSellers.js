@@ -20,7 +20,7 @@ const BestSellers = () => {
           price="35.00"
           color="Blank and White"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Elegant and stylish flower vases to enhance your décor!."
         />
         <Product
           _id="1012"
@@ -29,7 +29,7 @@ const BestSellers = () => {
           price="180.00"
           color="Gray"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Stylish and durable backpacks for all your travel and daily needs!."
         />
         <Product
           _id="1013"
@@ -38,7 +38,7 @@ const BestSellers = () => {
           price="25.00"
           color="Mixed"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Quality household materials to enhance your home’s functionality and style!."
         />
         <Product
           _id="1014"
@@ -47,7 +47,7 @@ const BestSellers = () => {
           price="220.00"
           color="Black"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Durable and spacious travel bags for your adventures!."
         />
       </div>
     </div>

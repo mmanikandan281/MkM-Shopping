@@ -58,7 +58,7 @@ const NewArrivals = () => {
             price="44.00"
             color="Black"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="A **Round Table Clock** is a compact, circular timepiece designed for tabletop use, combining functionality with aesthetic appeal."
           />
         </div>
         <div className="px-2">
@@ -69,7 +69,7 @@ const NewArrivals = () => {
             price="250.00"
             color="Black"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="A Smart Watch is a wearable device that combines traditional timekeeping with smart features like notifications, fitness tracking, and app integration.."
           />
         </div>
         <div className="px-2">
@@ -80,7 +80,7 @@ const NewArrivals = () => {
             price="80.00"
             color="Mixed"
             badge={true}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="A Cloth Basket is a lightweight, fabric-based storage container used for organizing laundry, toys, or household items, often collapsible for easy storage.."
           />
         </div>
         <div className="px-2">
@@ -91,7 +91,7 @@ const NewArrivals = () => {
             price="60.00"
             color="Mixed"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Funny toys for babies are colorful, soft, and interactive playthings designed to entertain infants with amusing sounds, silly faces, and playful movements, promoting joy and early development.."
           />
         </div>
         <div className="px-2">
@@ -102,7 +102,7 @@ const NewArrivals = () => {
             price="60.00"
             color="Mixed"
             badge={false}
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+            des="Funny toys for babies are colorful, soft, and interactive playthings designed to entertain infants with amusing sounds, silly faces, and playful movements, promoting joy and early development."
           />
         </div>
       </Slider>

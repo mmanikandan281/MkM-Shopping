@@ -20,7 +20,7 @@ const SpecialOffers = () => {
           price="35.00"
           color="Blank and White"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Discover stylish and comfortable caps for boys, perfect for casual wear, sports, and everyday fashion. Explore trendy designs crafted from high-quality materials for the perfect look!."
         />
         <Product
           _id="1102"
@@ -29,7 +29,7 @@ const SpecialOffers = () => {
           price="180.00"
           color="Gray"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Stylish and durable tea tables, perfect for any space!."
         />
         <Product
           _id="1103"
@@ -38,7 +38,7 @@ const SpecialOffers = () => {
           price="25.00"
           color="Mixed"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Experience premium sound quality with our stylish and comfortable headphones!."
         />
         <Product
           _id="1104"
@@ -47,7 +47,7 @@ const SpecialOffers = () => {
           price="220.00"
           color="Black"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="Stylish and UV-protected sunglasses for a trendy and safe look!."
         />
       </div>
     </div>
