@@ -1,6 +1,7 @@
 # 📌 Getting Started with Create React App
 
-![Uploading image.png…]()
+![Screenshot (36)](https://github.com/user-attachments/assets/082b25c3-a5c9-4421-847c-53005da1ac60)
+
 
 
 ## 📂 Project Setup
